@@ -1,0 +1,6 @@
+name: PlayerEvents-Message-Editor
+version: 1.0.0
+author: Kai-LEET
+api:
+- 2.0.0
+main: PlayerEvents-Message-Editor\Main
